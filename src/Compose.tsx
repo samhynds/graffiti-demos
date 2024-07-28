@@ -54,7 +54,7 @@ function Compose() {
   return (
     <StyledCompose>
       <Row $gap="16px">
-        <ProfilePic src="/avatars/1.png" $size="40px" alt="Your profile pic" />
+        <ProfilePic src="avatars/1.png" $size="40px" alt="Your profile pic" />
         <Column $gap="16px" $flexGrow="1">
           <ComposeTextarea rows={1} placeholder="What's happening?" />
           <Row $gap="16px">
