@@ -1,0 +1,100 @@
+[
+  {
+    "profileUrl": "/avatars/3.png",
+    "displayName": "Jeffy Jeff",
+    "handle": "jeffy_jeff",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id efficitur leo. Pellentesque dui orci, luctus a luctus sit amet, tincidunt vitae purus. Duis quis felis vitae risus iaculis porttitor nec a sapien. Ut interdum malesuada egestas.",
+    "image": null,
+    "video": null,
+    "meta": {
+      "likes": "481",
+      "reposts": "82",
+      "replies": "39",
+      "views": "27.9K"
+    }
+  },
+  {
+    "profileUrl": "/avatars/5.png",
+    "displayName": "Daisie Sloan",
+    "handle": "ds",
+    "text": null,
+    "image": "/post-media/1.jpg",
+    "video": null,
+    "meta": {
+      "likes": "69",
+      "reposts": "11",
+      "replies": "7",
+      "views": "1.4K"
+    }
+  },
+  {
+    "profileUrl": "/avatars/2.png",
+    "displayName": "Cody Andsersen",
+    "handle": "candersen",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id efficitur leo.",
+    "image": null,
+    "video": null,
+    "meta": {
+      "likes": "44",
+      "reposts": "7",
+      "replies": "2",
+      "views": "931"
+    }
+  },
+  {
+    "profileUrl": "/avatars/4.png",
+    "displayName": "Erica Webb",
+    "handle": "webbe",
+    "text": "Pellentesque cursus felis non orci maximus porttitor. Aliquam in arcu  lacus. Phasellus vitae mi id ipsum semper bibendum.",
+    "image": null,
+    "video": null,
+    "meta": {
+      "likes": "134",
+      "reposts": "19",
+      "replies": "41",
+      "views": "8.5K"
+    }
+  },
+  {
+    "profileUrl": "/avatars/8.png",
+    "displayName": "not a cat",
+    "handle": "meow",
+    "text": null,
+    "image": null,
+    "video": "/post-media/2.mp4",
+    "meta": {
+      "likes": "78K",
+      "reposts": "11.4K",
+      "replies": "2.8K",
+      "views": "2.7M"
+    }
+  },
+  {
+    "profileUrl": "/avatars/6.png",
+    "displayName": "The Dodo",
+    "handle": "thebirb",
+    "text": "mattis lorem",
+    "image": null,
+    "video": null,
+    "meta": {
+      "likes": "3",
+      "reposts": "0",
+      "replies": "0",
+      "views": "13"
+    }
+  },
+  {
+    "profileUrl": "/avatars/7.png",
+    "displayName": "ryan",
+    "handle": "the_ryan",
+    "text": "Donec lobortis urna et volutpat tempus. Vivamus lacinia dui massa, sit amet tempus ex consectetur at. Cras nec ipsum porta, interdum turpis at, viverra purus. Nulla in ante sapien.",
+    "image": "/post-media/3.jpg",
+    "video": null,
+    "meta": {
+      "likes": "4.5K",
+      "reposts": "765",
+      "replies": "201",
+      "views": "12.1K"
+    }
+  }
+]
