@@ -1,6 +1,6 @@
 [
   {
-    "profileUrl": "/avatars/3.png",
+    "profileUrl": "avatars/3.png",
     "displayName": "Jeffy Jeff",
     "handle": "jeffy_jeff",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id efficitur leo. Pellentesque dui orci, luctus a luctus sit amet, tincidunt vitae purus. Duis quis felis vitae risus iaculis porttitor nec a sapien. Ut interdum malesuada egestas.",
@@ -14,11 +14,11 @@
     }
   },
   {
-    "profileUrl": "/avatars/5.png",
+    "profileUrl": "avatars/5.png",
     "displayName": "Daisie Sloan",
     "handle": "ds",
     "text": null,
-    "image": "/post-media/1.jpg",
+    "image": "post-media/1.jpg",
     "video": null,
     "meta": {
       "likes": "69",
@@ -28,7 +28,7 @@
     }
   },
   {
-    "profileUrl": "/avatars/2.png",
+    "profileUrl": "avatars/2.png",
     "displayName": "Cody Andsersen",
     "handle": "candersen",
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id efficitur leo.",
@@ -42,7 +42,7 @@
     }
   },
   {
-    "profileUrl": "/avatars/4.png",
+    "profileUrl": "avatars/4.png",
     "displayName": "Erica Webb",
     "handle": "webbe",
     "text": "Pellentesque cursus felis non orci maximus porttitor. Aliquam in arcu  lacus. Phasellus vitae mi id ipsum semper bibendum.",
@@ -56,12 +56,12 @@
     }
   },
   {
-    "profileUrl": "/avatars/8.png",
+    "profileUrl": "avatars/8.png",
     "displayName": "not a cat",
     "handle": "meow",
     "text": null,
     "image": null,
-    "video": "/post-media/2.mp4",
+    "video": "post-media/2.mp4",
     "meta": {
       "likes": "78K",
       "reposts": "11.4K",
@@ -70,7 +70,7 @@
     }
   },
   {
-    "profileUrl": "/avatars/6.png",
+    "profileUrl": "avatars/6.png",
     "displayName": "The Dodo",
     "handle": "thebirb",
     "text": "mattis lorem",
@@ -84,11 +84,11 @@
     }
   },
   {
-    "profileUrl": "/avatars/7.png",
+    "profileUrl": "avatars/7.png",
     "displayName": "ryan",
     "handle": "the_ryan",
     "text": "Donec lobortis urna et volutpat tempus. Vivamus lacinia dui massa, sit amet tempus ex consectetur at. Cras nec ipsum porta, interdum turpis at, viverra purus. Nulla in ante sapien.",
-    "image": "/post-media/3.jpg",
+    "image": "post-media/3.jpg",
     "video": null,
     "meta": {
       "likes": "4.5K",
